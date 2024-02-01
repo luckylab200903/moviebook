@@ -14,6 +14,9 @@ Install the component using npm:
 
 ReactJS 
 Tailwind CSS
+ 
+## Storage
+The data for the form is stored in localstorage in the name of formData
 
 ## Access the site
 https://moviebook-awo357dkk-luckylab200903s-projects.vercel.app/
