@@ -15,4 +15,5 @@ Install the component using npm:
 ReactJS 
 Tailwind CSS
 
-
+## Access the site
+https://moviebook-awo357dkk-luckylab200903s-projects.vercel.app/
